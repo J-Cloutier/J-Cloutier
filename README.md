@@ -1,5 +1,7 @@
 ### Hi there 👋
-### Hi onece more
+### Please excuse the dust, everything is under construction. 
+
+### Find me on twitter @thejordn
 <!--
 **J-Cloutier/J-Cloutier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
