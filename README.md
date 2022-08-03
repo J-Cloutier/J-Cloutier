@@ -1,5 +1,7 @@
 ### Hi there 👋
-### Please excuse the dust, everything is under construction. 
+### I'm a former systems-admin, turned web-developer, frustrated with bad UI and difficult to navigate interfaces. Now I specialize in makeing accessible responsive web presences that are intuitive and easy to use and understand for everyone. 
+
+![Codewars](https://www.codewars.com/users/jordanCl/badges/large "Codewars")
 
 ### Find me on twitter @thejordn
 <!--
